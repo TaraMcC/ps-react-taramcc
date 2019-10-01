@@ -1,10 +1,9 @@
-import React from 'React'
+import React from 'react';
+import PropTypes from 'prop-types';
 
-function HelloWorld({message})
-{
-
-    return
-    <div>Hello world {message}</div>
+/** A super lame component that says Hello with a custom message. */
+function HelloWorld({message}) {
+  return <div>Hello {message}</div>
 }
 
 export default HelloWorld;
