@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9425ccca-e8d4-4682-a0f5-418acd6dffc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ProgressBar/ProgressBar.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/percentUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/percentUtils.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PasswordInput/PasswordInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PasswordInput/PasswordInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PasswordInput/PasswordInput.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PasswordInput/PasswordInput.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PasswordInput/__snapshots__/PasswordInput.spec.js.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProgressBar/ProgressBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProgressBar/ProgressBar.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +42,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1RsPKKv3tA37MVCemddAGsGVdJR" />
   <component name="PropertiesComponent">
@@ -90,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569676626827</updated>
-      <workItem from="1570452765923" duration="1763000" />
+      <workItem from="1570452765923" duration="8283000" />
     </task>
     <servers />
   </component>
