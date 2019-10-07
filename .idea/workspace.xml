@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9425ccca-e8d4-4682-a0f5-418acd6dffc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/percentUtils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/percentUtils.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ps-react-taramcc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ps-react-taramcc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PasswordInput/PasswordInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PasswordInput/PasswordInput.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PasswordInput/PasswordInput.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PasswordInput/PasswordInput.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PasswordInput/__snapshots__/PasswordInput.spec.js.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ProgressBar/ProgressBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ProgressBar/ProgressBar.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,11 +48,12 @@
   </component>
   <component name="ProjectId" id="1RsPKKv3tA37MVCemddAGsGVdJR" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -102,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569676626827</updated>
-      <workItem from="1570452765923" duration="8283000" />
+      <workItem from="1570452765923" duration="11794000" />
     </task>
     <servers />
   </component>
